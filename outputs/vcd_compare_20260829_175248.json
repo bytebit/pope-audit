@@ -1,0 +1,82 @@
+{
+ "subset": "random",
+ "n": 8,
+ "items": [
+  {
+   "question": "Is there a snowboard in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sandwich in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a couch in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a pizza in the image?",
+   "answer": "no"
+  }
+ ],
+ "runs": {
+  "ins-yesno/Regular": {
+   "metrics": {
+    "accuracy": 0.875,
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1": 0.8571
+   },
+   "preds": [
+    "yes, there is a snowboard in",
+    ". assistant: no",
+    ". assistant: yes",
+    "no",
+    "yes",
+    "no",
+    "yes, there is a truck in",
+    "no"
+   ]
+  },
+  "ins-yesno/VCD": {
+   "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+   },
+   "preds": [
+    "yes, there is a snowboard in",
+    "no\nis there a person in",
+    "yes\nis the person wearing",
+    "no\nis the person wearing",
+    "yes\nis the skier we",
+    "no\nis there a person in",
+    "yes, there is a truck in",
+    "no\nis the woman holding an"
+   ],
+   "decomp": {
+    "fix_echo": 1,
+    "fix_genuine": 0,
+    "break_echo": 0,
+    "break_genuine": 0
+   }
+  }
+ }
+}

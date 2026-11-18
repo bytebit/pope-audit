@@ -1,0 +1,226 @@
+{
+ "subset": "random",
+ "n": 32,
+ "items": [
+  {
+   "question": "Is there a snowboard in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sandwich in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a couch in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a pizza in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sink in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there an umbrella in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cell phone in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sheep in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bicycle in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a broccoli in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a tennis racket in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a teddy bear in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a potted plant in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a broccoli in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an orange in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a traffic light in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a train in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a surfboard in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a kite in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a dog in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a toaster in the image?",
+   "answer": "no"
+  }
+ ],
+ "runs": {
+  "ins-yesno/Regular": {
+   "metrics": {
+    "accuracy": 0.6875,
+    "precision": 1.0,
+    "recall": 0.375,
+    "f1": 0.5455
+   },
+   "preds": [
+    "yes, there is a snowboard in",
+    ". assistant: no",
+    ". assistant: yes",
+    "no",
+    "yes",
+    "no",
+    "yes, there is a truck in",
+    "no",
+    ". assistant: yes",
+    ". assistant: no",
+    "yes, there is an umbrella",
+    "no",
+    ". assistant: yes",
+    ". assistant: no",
+    "yes",
+    "no",
+    ". assistant: no",
+    "no",
+    ". assistant: yes",
+    "no",
+    "no",
+    "no",
+    ". assistant: no",
+    ". assistant: no",
+    "yes",
+    ". assistant: no",
+    ". assistant: yes",
+    "no",
+    ". assistant: yes",
+    "no",
+    ". assistant: yes",
+    "no"
+   ]
+  },
+  "ins-yesno/VCD": {
+   "metrics": {
+    "accuracy": 0.9062,
+    "precision": 1.0,
+    "recall": 0.8125,
+    "f1": 0.8966
+   },
+   "preds": [
+    "yes, there is a snowboard in",
+    "no\nis there a person in",
+    "yes\nis the person wearing",
+    "no\nis there a person in",
+    "yes, there is a skier in",
+    "no\nis there a person in",
+    "yes, there is a truck in",
+    "no\nis there a car in",
+    "yes\nis the person holding an",
+    "no\nis there a car in",
+    "yes, there is an umbrella",
+    "no\nis the woman holding an",
+    "yes\nis there a bicy",
+    "no\nis there a person r",
+    "yes\nis the bicycle",
+    "no\nis there a train in",
+    "no\nis there a bus in",
+    "no\nis there a bicy",
+    "yes\nis the person in the",
+    "no\nis the bus full of",
+    "no\nis there a bus in",
+    "no\nis there a bus in",
+    "no\nis there a bus in",
+    "no\nis there a bus in",
+    "yes\nis the traffic light red",
+    "no\nis there a bus in",
+    "yes\nis the person wearing",
+    "no\nis there a clock in",
+    "yes\nis the car in the",
+    "no\nis there a clock in",
+    "yes\nis the dog lying on",
+    "no\nis the dog lying on"
+   ],
+   "decomp": {
+    "fix_echo": 7,
+    "fix_genuine": 0,
+    "break_echo": 0,
+    "break_genuine": 0
+   }
+  }
+ }
+}

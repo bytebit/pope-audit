@@ -1,0 +1,62 @@
+{
+ "model": "E:\\dev_projects\\PAPERS\\paper3\\exp_topicA\\models\\qwen2.5-vl-7b-instruct",
+ "bits": 4,
+ "subset": "random",
+ "n": 4,
+ "items": [
+  {
+   "question": "Is there a snowboard in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sandwich in the image?",
+   "answer": "no"
+  }
+ ],
+ "runs": {
+  "ins-yesno/Regular": {
+   "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+   },
+   "preds": [
+    "yes.",
+    "no",
+    "yes.",
+    "no"
+   ],
+   "echo": 0
+  },
+  "ins-yesno/VCD": {
+   "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+   },
+   "preds": [
+    "yes.\nstyletype\nsnowboard",
+    "no",
+    "yes.\nstyletype\nthe image",
+    "no"
+   ],
+   "echo": 0,
+   "decomp": {
+    "fix_echo": 0,
+    "fix_genuine": 0,
+    "break_echo": 0,
+    "break_genuine": 0
+   }
+  }
+ }
+}

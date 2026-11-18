@@ -1,0 +1,1232 @@
+{
+ "model": "E:\\dev_projects\\PAPERS\\paper3\\exp_topicA\\models\\qwen2.5-vl-7b-instruct",
+ "bits": 4,
+ "subset": "random",
+ "n": 200,
+ "items": [
+  {
+   "question": "Is there a snowboard in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sandwich in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a couch in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a pizza in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sink in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there an umbrella in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cell phone in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sheep in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bicycle in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a broccoli in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a tennis racket in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a teddy bear in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a potted plant in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a broccoli in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an orange in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a traffic light in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a train in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a surfboard in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a kite in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a dog in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a toaster in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a dining table in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sports ball in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bed in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a book in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a traffic light in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a spoon in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bird in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a fork in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a tv in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bowl in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a toaster in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cow in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a microwave in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a laptop in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a backpack in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cell phone in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a couch in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a tennis racket in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bird in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a fire hydrant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bed in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a boat in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bench in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bear in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there an orange in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cow in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bottle in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bed in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a backpack in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a potted plant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a wine glass in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bus in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a suitcase in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an airplane in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a dining table in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a clock in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a chair in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a horse in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a zebra in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a sandwich in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a tie in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a hot dog in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a carrot in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a potted plant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a frisbee in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a chair in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a knife in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a teddy bear in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a hot dog in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a cake in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a tie in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a keyboard in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a remote in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a frisbee in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a handbag in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an elephant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a baseball glove in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a suitcase in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sheep in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a baseball bat in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a dining table in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a sink in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cow in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bench in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a scissors in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a toilet in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bear in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a carrot in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a teddy bear in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bird in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bear in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a mouse in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bowl in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a spoon in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a dog in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a sandwich in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bed in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a scissors in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a cat in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a clock in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a book in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an elephant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a tv in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bed in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a mouse in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bench in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a laptop in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a skateboard in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a sink in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a giraffe in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a toothbrush in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bottle in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an umbrella in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an elephant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there an airplane in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a potted plant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a car in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a microwave in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a backpack in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bear in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cup in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sink in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a tv in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a cat in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a donut in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a couch in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a teddy bear in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a carrot in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a tv in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a cow in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a potted plant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a dog in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there an elephant in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a stop sign in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a sink in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a sheep in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a toothbrush in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a backpack in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bottle in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a horse in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a toilet in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bicycle in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a spoon in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there an umbrella in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a dog in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a person in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a skis in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a bicycle in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a horse in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a skateboard in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a zebra in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a laptop in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a truck in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a remote in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a hot dog in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a dining table in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a bowl in the image?",
+   "answer": "no"
+  },
+  {
+   "question": "Is there a snowboard in the image?",
+   "answer": "yes"
+  },
+  {
+   "question": "Is there a stop sign in the image?",
+   "answer": "no"
+  }
+ ],
+ "runs": {
+  "plain/Regular": {
+   "metrics": {
+    "accuracy": 0.88,
+    "precision": 0.9872,
+    "recall": 0.77,
+    "f1": 0.8652
+   },
+   "preds": [
+    "yes, there is a snowboard in",
+    "no, there is no car in the",
+    "yes, there is a person in the",
+    "no, there is no sandwich in the",
+    "no, there are no skis visible",
+    "no, there is no couch in the",
+    "yes, there is a truck in the",
+    "no, there is no pizza in the",
+    "yes, there is a person in the",
+    "no, there is no sink in the",
+    "yes, there is an umbrella in the",
+    "no, there is no cell phone visible",
+    "yes, there is a person in the",
+    "no, there is no sheep in the",
+    "yes, there is a bicycle in the",
+    "no, there is no broccoli in the",
+    "no, there is no car visible in",
+    "no, there is no tennis racket in",
+    "yes, there are people in the image",
+    "no, there is no teddy bear",
+    "no, there is no potted plant",
+    "no, there is no broccoli in the",
+    "no, there is no car visible in",
+    "no, there is no orange visible in",
+    "yes, there is a traffic light visible",
+    "no, there is no train in the",
+    "yes, there is a person in the",
+    "no, there is no surfboard in",
+    "yes, there is a car in the",
+    "no, there is no kite in the",
+    "yes, there is a dog in the",
+    "no, there is no toaster in the",
+    "yes, there is a dining table in",
+    "no, there is no sports ball in",
+    "no, there is no bed visible in",
+    "no, there is no book in the",
+    "yes, there is a person in the",
+    "no, there is no traffic light in",
+    "no, there is no spoon visible in",
+    "no, there is no bird in the",
+    "yes, there is a fork in the",
+    "no, there is no truck visible in",
+    "no, there is no tv in the",
+    "no, there is no bowl visible in",
+    "yes, there is a toaster oven visible",
+    "no, there is no cow in the",
+    "yes, there is a microwave in the",
+    "no, there is no laptop in the",
+    "yes, there is a backpack visible in",
+    "no, there is no cell phone visible",
+    "yes, there is a person in the",
+    "no, there is no couch in the",
+    "yes, there is a pair of sk",
+    "no, there is no tennis racket in",
+    "yes, there is a bird in the",
+    "no, there is no fire hydrant",
+    "yes, there is a person visible in",
+    "no, there is no bed in the",
+    "yes, there is a boat in the",
+    "no, there is no bench visible in",
+    "yes, there is a person in the",
+    "no, there is no bear in the",
+    "yes, there are oranges in the image",
+    "no, there is no cow in the",
+    "yes, there is a bottle visible in",
+    "no, there is no bed in the",
+    "yes, there appears to be a backpack",
+    "no, there is no potted plant",
+    "yes, there is a person in the",
+    "no, there is no wine glass in",
+    "yes, there is a bus in the",
+    "no, there is no suitcase in the",
+    "yes, there is a person in the",
+    "no, there is no airplane in the",
+    "yes, there is a dining table visible",
+    "no, there is no clock visible in",
+    "yes, there is a chair visible in",
+    "no, there is no horse in the",
+    "yes, there is a person in the",
+    "no, there is no zebra in",
+    "yes, there appears to be a sandwich",
+    "no, there is no tie visible in",
+    "no, there is no hot dog in",
+    "no, there is no car visible in",
+    "yes, there are two people in the",
+    "no, there is no carrot in the",
+    "yes, there is a car visible in",
+    "no, there is no potted plant",
+    "yes, there is a frisbee",
+    "no, there is no chair visible in",
+    "yes, there is a knife in the",
+    "no, there is no teddy bear",
+    "yes, there is a person in the",
+    "no, there is no hot dog in",
+    "yes, there is a cake in the",
+    "yes, there is a tie visible in",
+    "yes, there is a person in the",
+    "no, there is no keyboard visible in",
+    "no, there is no remote in the",
+    "no, there is no frisbee",
+    "yes, there appears to be a hand",
+    "no, there is no elephant in the",
+    "yes, there is a baseball glove in",
+    "no, there is no suitcase in the",
+    "yes, there is a person in the",
+    "no, there is no sheep in the",
+    "yes, there is a baseball bat in",
+    "no, there is no dining table in",
+    "yes, there is a sink in the",
+    "no, there is no cow in the",
+    "yes, there is a bench in the",
+    "no, there are no scissors visible in",
+    "yes, there is a toilet in the",
+    "no, there is no bear in the",
+    "yes, there is a person in the",
+    "no, there is no carrot in the",
+    "yes, there is a teddy bear",
+    "no, there is no bird in the",
+    "yes, there is a stuffed bear in",
+    "no, there is no mouse in the",
+    "no, there is no bowl in the",
+    "no, there are no skis in",
+    "no, there is no spoon visible in",
+    "no, there is no dog in the",
+    "yes, there is a sandwich in the",
+    "no, there is no car in the",
+    "yes, there is a bed in the",
+    "no, there are no scissors visible in",
+    "yes, there is a cat in the",
+    "no, there is no clock visible in",
+    "yes, there is a book visible in",
+    "no, there is no elephant in the",
+    "no, there is no tv in the",
+    "no, there is no bed in the",
+    "yes, there is a computer mouse visible",
+    "no, there is no bench in the",
+    "yes, there are multiple laptops in the",
+    "no, there is no skateboard in the",
+    "yes, there is a sink in the",
+    "no, there is no giraffe in",
+    "no, there is no toothbrush visible",
+    "no, there is no person in the",
+    "yes, there is a bottle in the",
+    "no, there is no umbrella in the",
+    "no, there is no truck visible in",
+    "no, there is no elephant in the",
+    "yes, there is an airplane in the",
+    "no, there is no potted plant",
+    "no, there is no car in the",
+    "no, there is no microwave in the",
+    "yes, there is a backpack in the",
+    "no, there is no bear in the",
+    "yes, there is a person in the",
+    "no, there is no cup in the",
+    "yes, there is a pair of sk",
+    "no, there is no sink in the",
+    "yes, there is a tv in the",
+    "no, there is no cat visible in",
+    "yes, there is a person in the",
+    "no, there is no donut visible",
+    "yes, there is a couch in the",
+    "no, there is no teddy bear",
+    "no, there is no truck visible in",
+    "no, there is no carrot in the",
+    "yes, there is a person in the",
+    "no, there is no tv in the",
+    "no, there is no cow in the",
+    "no, there is no potted plant",
+    "yes, there is a dog in the",
+    "no, there is no elephant in the",
+    "no, there is no truck visible in",
+    "no, there is no stop sign visible",
+    "yes, there is a person in the",
+    "no, there are no skis in",
+    "yes, there is a sink in the",
+    "no, there is no sheep in the",
+    "no, there is no toothbrush visible",
+    "no, there is no backpack in the",
+    "no, there is no bottle visible in",
+    "no, there is no horse in the",
+    "yes, there is a person in the",
+    "no, there is no toilet in the",
+    "yes, there is a bicycle in the",
+    "no, there is no spoon in the",
+    "yes, there is an umbrella in the",
+    "no, there is no dog visible in",
+    "yes, there is a person in the",
+    "no, there are no skis in",
+    "yes, there is a bicycle in the",
+    "no, there is no horse in the",
+    "yes, there is a skateboard in the",
+    "no, there is no zebra in",
+    "yes, there is a laptop in the",
+    "no, there is no truck in the",
+    "no, there is no remote visible in",
+    "no, there is no hot dog in",
+    "no, there is no dining table in",
+    "no, there is no bowl visible in",
+    "no, there is no snowboard in",
+    "no, there is no stop sign in"
+   ],
+   "echo": 0
+  },
+  "ins-yesno/Regular": {
+   "metrics": {
+    "accuracy": 0.885,
+    "precision": 0.9873,
+    "recall": 0.78,
+    "f1": 0.8715
+   },
+   "preds": [
+    "yes.",
+    "no",
+    "yes.",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes.",
+    "no",
+    "yes",
+    "no",
+    "yes.",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes.",
+    "no",
+    "yes",
+    "no",
+    "yes.",
+    "no",
+    "yes.",
+    "no",
+    "yes.",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes.",
+    "no",
+    "yes.",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes.",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes.",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes.",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes.",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ],
+   "echo": 0
+  }
+ }
+}

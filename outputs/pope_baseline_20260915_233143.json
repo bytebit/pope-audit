@@ -1,0 +1,2512 @@
+{
+  "random": {
+    "accuracy": 0.724,
+    "precision": 0.9444,
+    "recall": 0.476,
+    "f1": 0.633,
+    "num_samples": 500,
+    "elapsed_sec": 350.3,
+    "predictions": [
+      {
+        "question": "Is there a snowboard in the image?",
+        "pred": "yes, there is a snowboard in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a pizza in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there an umbrella in the image?",
+        "pred": "yes, there is an umbrella",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cell phone in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sheep in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bicycle in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a broccoli in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a teddy bear in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a broccoli in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an orange in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a traffic light in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a train in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a surfboard in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a kite in the image?",
+        "pred": ". assistant: yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toaster in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a book in the image?",
+        "pred": ". assistant: yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a traffic light in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a fork in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a toaster in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a microwave in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a laptop in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "yes, there is a backpack in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cell phone in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "yes, there are skis in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a fire hydrant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a boat in the image?",
+        "pred": "yes, there is a boat in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bench in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bear in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there an orange in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a wine glass in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bus in the image?",
+        "pred": "yes, there is a bus in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a suitcase in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an airplane in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": "yes, there is a dining table",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a horse in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a zebra in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": "yes, there is a sandwich in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tie in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a hot dog in the image?",
+        "pred": "yes, there is a hot dog in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a carrot in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "yes, there is a car in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a frisbee in the image?",
+        "pred": "yes, there is a frisbe",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a knife in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a teddy bear in the image?",
+        "pred": "yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a hot dog in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a cake in the image?",
+        "pred": "yes, there is a cake in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tie in the image?",
+        "pred": "yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a keyboard in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a remote in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a frisbee in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an elephant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": "yes, there is a baseball glove",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a suitcase in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sheep in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a baseball bat in the image?",
+        "pred": "yes, there is a baseball bat in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bench in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a scissors in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a toilet in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bear in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a carrot in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a teddy bear in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bear in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a mouse in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": "yes, there is a bed in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a scissors in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a cat in the image?",
+        "pred": "yes, there is a cat in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a book in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an elephant in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a mouse in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bench in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a laptop in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a skateboard in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": "yes, there is a sink in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a giraffe in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a toothbrush in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an umbrella in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an elephant in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there an airplane in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a microwave in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bear in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cup in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": "yes, there is a tv in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cat in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a donut in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "yes, there is a couch in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a teddy bear in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a carrot in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an elephant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a stop sign in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sheep in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a toothbrush in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a horse in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toilet in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bicycle in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there an umbrella in the image?",
+        "pred": "yes, there is an umbrella",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bicycle in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a horse in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skateboard in the image?",
+        "pred": "yes, there is a skateboard",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a zebra in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a laptop in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a remote in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a hot dog in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a snowboard in the image?",
+        "pred": "no, there is no snowboard in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a stop sign in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a surfboard in the image?",
+        "pred": "yes, there is a surfboard",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a wine glass in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bus in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a boat in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a wine glass in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a carrot in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skateboard in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cell phone in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "yes, there is a car in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a donut in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a mouse in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a fork in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a knife in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a surfboard in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a zebra in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a mouse in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a vase in the image?",
+        "pred": "yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a stop sign in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an apple in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a train in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a traffic light in the image?",
+        "pred": "yes, there is a traffic light in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bear in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cat in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a wine glass in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a snowboard in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a microwave in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a giraffe in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a banana in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an airplane in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a motorcycle in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a vase in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a snowboard in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "yes, there is a couch in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a boat in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a vase in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a suitcase in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toaster in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a refrigerator in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a horse in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cup in the image?",
+        "pred": ". assistant: yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a banana in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a fire hydrant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a remote in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a vase in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": "yes, there is a sink in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a baseball bat in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": "yes, there is a baseball glove",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a refrigerator in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a broccoli in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a wine glass in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an airplane in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bus in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a kite in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a traffic light in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there an orange in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toaster in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a refrigerator in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a wine glass in the image?",
+        "pred": "yes, there is a wine glass in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bench in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a snowboard in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a horse in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": "yes, there is a bed in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a book in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a traffic light in the image?",
+        "pred": "yes, there is a traffic light in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a pizza in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toaster in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an airplane in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toothbrush in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a motorcycle in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a carrot in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bicycle in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a parking meter in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a refrigerator in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a teddy bear in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a carrot in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a broccoli in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toaster in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cat in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a book in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a boat in the image?",
+        "pred": "yes, there is a boat in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a refrigerator in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bench in the image?",
+        "pred": "yes, there is a bench in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a microwave in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skateboard in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an apple in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a suitcase in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a refrigerator in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a remote in the image?",
+        "pred": "yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": "yes, there is a sink in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": "yes, there is a potted plant",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a toilet in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a banana in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a frisbee in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a remote in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "yes, there is a car in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a frisbee in the image?",
+        "pred": "yes, there is a frisbe",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bottle in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bed in the image?",
+        "pred": "yes, there is a bed in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bench in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tie in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a remote in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a kite in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cell phone in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a book in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a remote in the image?",
+        "pred": "yes, there is a remote in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a scissors in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bus in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a carrot in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a skateboard in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a laptop in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": "yes",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a traffic light in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a toothbrush in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tv in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "yes, there is a couch in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a keyboard in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": "yes, there is a baseball glove",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a spoon in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a teddy bear in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a snowboard in the image?",
+        "pred": "yes, there is a snowboard in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an oven in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a bicycle in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a broccoli in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bowl in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an elephant in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a scissors in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a giraffe in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a chair in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a potted plant in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a motorcycle in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there an airplane in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a frisbee in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dog in the image?",
+        "pred": "yes, there is a dog in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sports ball in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there an oven in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a baseball glove in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a horse in the image?",
+        "pred": "yes, there is a horse in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a knife in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a sheep in the image?",
+        "pred": "yes, there is a sheep in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tie in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cow in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a laptop in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a dining table in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a pizza in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bird in the image?",
+        "pred": "no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a refrigerator in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a clock in the image?",
+        "pred": "no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a handbag in the image?",
+        "pred": ". assistant: no",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a zebra in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a backpack in the image?",
+        "pred": ". assistant: yes",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cat in the image?",
+        "pred": ". assistant: no",
+        "answer": "no"
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+ "prompt": "Please help me describe the image in detail.",
+ "max_new_tokens": 32,
+ "num_images": 12,
+ "auroc": {
+  "pas": 0.2941,
+  "svar": 0.7059,
+  "nll": 0.0588,
+  "entropy": 0.0588
+ },
+ "records": [
+  {
+   "coco_id": 1171,
+   "object": "train",
+   "token_idx": 11,
+   "label": 1,
+   "pas": 0.20683002471923828,
+   "svar": 0.7931725978851318,
+   "nll": 0.653357744216919,
+   "entropy": 1.6448012590408325,
+   "caption": "▁The▁image▁features▁a▁large,▁old-fashioned▁train▁engine▁with▁the▁number▁71▁on▁its▁front.▁The▁train▁is▁parked▁on▁a▁track,"
+  },
+  {
+   "coco_id": 1171,
+   "object": "train",
+   "token_idx": 24,
+   "label": 1,
+   "pas": 0.5825576782226562,
+   "svar": 0.41745686531066895,
+   "nll": 0.16860562562942505,
+   "entropy": 0.7722159624099731,
+   "caption": "▁The▁image▁features▁a▁large,▁old-fashioned▁train▁engine▁with▁the▁number▁71▁on▁its▁front.▁The▁train▁is▁parked▁on▁a▁track,"
+  },
+  {
+   "coco_id": 6033,
+   "object": "cow",
+   "token_idx": 9,
+   "label": 0,
+   "pas": 0.3503284454345703,
+   "svar": 0.6497070789337158,
+   "nll": 1.3214219808578491,
+   "entropy": 2.803910255432129,
+   "caption": "▁The▁image▁features▁a▁man▁standing▁next▁to▁a▁cow,▁possibly▁in▁a▁dirt▁lot.▁The▁man▁is▁wearing▁a▁brown▁shirt▁and▁appears▁to▁be▁holding"
+  },
+  {
+   "coco_id": 7320,
+   "object": "person",
+   "token_idx": 4,
+   "label": 1,
+   "pas": 0.2733936309814453,
+   "svar": 0.7266075611114502,
+   "nll": 1.6920151710510254,
+   "entropy": 3.3934526443481445,
+   "caption": "▁The▁image▁features▁a▁person▁holding▁a▁Nintendo▁Wii▁controller▁in▁front▁of▁a▁TV.▁The▁TV▁is▁displaying▁a▁video▁game,▁likely▁a▁game▁involving▁a▁b"
+  },
+  {
+   "coco_id": 7320,
+   "object": "tv",
+   "token_idx": 16,
+   "label": 1,
+   "pas": 0.394317626953125,
+   "svar": 0.6057143211364746,
+   "nll": 1.1992757320404053,
+   "entropy": 2.053896903991699,
+   "caption": "▁The▁image▁features▁a▁person▁holding▁a▁Nintendo▁Wii▁controller▁in▁front▁of▁a▁TV.▁The▁TV▁is▁displaying▁a▁video▁game,▁likely▁a▁game▁involving▁a▁b"
+  },
+  {
+   "coco_id": 7320,
+   "object": "tv",
+   "token_idx": 19,
+   "label": 1,
+   "pas": 0.5771389007568359,
+   "svar": 0.4228299856185913,
+   "nll": 0.6906108856201172,
+   "entropy": 1.7741813659667969,
+   "caption": "▁The▁image▁features▁a▁person▁holding▁a▁Nintendo▁Wii▁controller▁in▁front▁of▁a▁TV.▁The▁TV▁is▁displaying▁a▁video▁game,▁likely▁a▁game▁involving▁a▁b"
+  },
+  {
+   "coco_id": 7795,
+   "object": "bed",
+   "token_idx": 12,
+   "label": 1,
+   "pas": 0.21027183532714844,
+   "svar": 0.789731502532959,
+   "nll": 0.0028062984347343445,
+   "entropy": 0.020861733704805374,
+   "caption": "▁The▁image▁showcases▁a▁cozy▁bedroom▁with▁two▁beds▁placed▁side▁by▁side.▁The▁beds▁are▁covered▁with▁white▁sheets▁and▁pillows,▁creating▁a"
+  },
+  {
+   "coco_id": 7795,
+   "object": "bed",
+   "token_idx": 20,
+   "label": 1,
+   "pas": 0.29730987548828125,
+   "svar": 0.7027063369750977,
+   "nll": 0.00022849810193292797,
+   "entropy": 0.0027585062198340893,
+   "caption": "▁The▁image▁showcases▁a▁cozy▁bedroom▁with▁two▁beds▁placed▁side▁by▁side.▁The▁beds▁are▁covered▁with▁white▁sheets▁and▁pillows,▁creating▁a"
+  },
+  {
+   "coco_id": 8749,
+   "object": "pizza",
+   "token_idx": 11,
+   "label": 1,
+   "pas": 0.22604846954345703,
+   "svar": 0.773993730545044,
+   "nll": 0.00023779425828251988,
+   "entropy": 0.0026415756437927485,
+   "caption": "▁The▁image▁features▁a▁large,▁freshly▁baked▁pizza▁sitting▁on▁a▁metal▁tray▁on▁a▁wooden▁dining▁table.▁The▁pizza▁is▁topped▁with"
+  },
+  {
+   "coco_id": 8749,
+   "object": "pizza",
+   "token_idx": 27,
+   "label": 1,
+   "pas": 0.3575124740600586,
+   "svar": 0.642441987991333,
+   "nll": 7.045020902296528e-05,
+   "entropy": 0.0008409504080191255,
+   "caption": "▁The▁image▁features▁a▁large,▁freshly▁baked▁pizza▁sitting▁on▁a▁metal▁tray▁on▁a▁wooden▁dining▁table.▁The▁pizza▁is▁topped▁with"
+  },
+  {
+   "coco_id": 11241,
+   "object": "bowl",
+   "token_idx": 31,
+   "label": 1,
+   "pas": 0.1866464614868164,
+   "svar": 0.8133664131164551,
+   "nll": 0.0009177286992780864,
+   "entropy": 0.008129679597914219,
+   "caption": "▁The▁image▁features▁a▁buffet▁table▁filled▁with▁a▁variety▁of▁food▁items.▁There▁are▁several▁plates▁of▁sandwiches,▁as▁well▁as▁a▁few▁bowls"
+  },
+  {
+   "coco_id": 11241,
+   "object": "sandwich",
+   "token_idx": 23,
+   "label": 1,
+   "pas": 0.17667388916015625,
+   "svar": 0.8233184814453125,
+   "nll": 0.0033080638386309147,
+   "entropy": 0.03323686495423317,
+   "caption": "▁The▁image▁features▁a▁buffet▁table▁filled▁with▁a▁variety▁of▁food▁items.▁There▁are▁several▁plates▁of▁sandwiches,▁as▁well▁as▁a▁few▁bowls"
+  },
+  {
+   "coco_id": 12333,
+   "object": "horse",
+   "token_idx": 9,
+   "label": 1,
+   "pas": 0.16472625732421875,
+   "svar": 0.8352689743041992,
+   "nll": 0.08492502570152283,
+   "entropy": 0.5228893756866455,
+   "caption": "▁The▁image▁features▁a▁woman▁riding▁a▁white▁horse,▁performing▁a▁trick▁in▁front▁of▁a▁crowd▁of▁people.▁The▁audience▁is▁composed▁of▁various▁individuals,▁some▁of"
+  },
+  {
+   "coco_id": 13348,
+   "object": "airplane",
+   "token_idx": 7,
+   "label": 1,
+   "pas": 0.1149754524230957,
+   "svar": 0.8850369453430176,
+   "nll": 0.021468864753842354,
+   "entropy": 0.11567173153162003,
+   "caption": "▁The▁image▁features▁a▁large▁white▁airplane▁parked▁on▁the▁tarmac▁at▁an▁airport.▁The▁airplane▁is▁positioned▁in▁the▁middle▁of▁the▁scene"
+  },
+  {
+   "coco_id": 13348,
+   "object": "airplane",
+   "token_idx": 22,
+   "label": 1,
+   "pas": 0.20986461639404297,
+   "svar": 0.790156364440918,
+   "nll": 0.014646274968981743,
+   "entropy": 0.09182453155517578,
+   "caption": "▁The▁image▁features▁a▁large▁white▁airplane▁parked▁on▁the▁tarmac▁at▁an▁airport.▁The▁airplane▁is▁positioned▁in▁the▁middle▁of▁the▁scene"
+  },
+  {
+   "coco_id": 15338,
+   "object": "bus",
+   "token_idx": 12,
+   "label": 1,
+   "pas": 0.14976119995117188,
+   "svar": 0.8502211570739746,
+   "nll": 0.5691670179367065,
+   "entropy": 1.7185813188552856,
+   "caption": "▁The▁image▁depicts▁a▁busy▁city▁street▁with▁a▁yellow▁bus▁driving▁down▁the▁road.▁The▁bus▁is▁positioned▁in▁the▁middle▁of▁the▁scene,▁and▁there"
+  },
+  {
+   "coco_id": 15338,
+   "object": "bus",
+   "token_idx": 19,
+   "label": 1,
+   "pas": 0.5724191665649414,
+   "svar": 0.42757606506347656,
+   "nll": 0.1625177562236786,
+   "entropy": 0.7342625856399536,
+   "caption": "▁The▁image▁depicts▁a▁busy▁city▁street▁with▁a▁yellow▁bus▁driving▁down▁the▁road.▁The▁bus▁is▁positioned▁in▁the▁middle▁of▁the▁scene,▁and▁there"
+  },
+  {
+   "coco_id": 16451,
+   "object": "surfboard",
+   "token_idx": 22,
+   "label": 1,
+   "pas": 0.21499061584472656,
+   "svar": 0.7850074768066406,
+   "nll": 0.0020818482153117657,
+   "entropy": 0.01765335351228714,
+   "caption": "▁The▁image▁features▁a▁sandy▁beach▁with▁a▁variety▁of▁items▁scattered▁across▁the▁sand.▁There▁are▁two▁surfboards,▁one▁placed▁closer▁to▁the▁left▁side▁of"
+  }
+ ]
+}

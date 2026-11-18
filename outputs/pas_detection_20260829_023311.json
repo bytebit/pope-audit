@@ -1,0 +1,12 @@
+{
+ "prompt": "Please help me describe the image in detail.",
+ "max_new_tokens": 32,
+ "num_images": 12,
+ "auroc": {
+  "pas": null,
+  "svar": null,
+  "nll": null,
+  "entropy": null
+ },
+ "records": []
+}

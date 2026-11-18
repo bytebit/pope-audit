@@ -1,0 +1,10 @@
+{
+  "random": {
+    "accuracy": 0.95,
+    "precision": 0.9091,
+    "recall": 1.0,
+    "f1": 0.9524,
+    "num_samples": 20,
+    "elapsed_sec": 42.6
+  }
+}

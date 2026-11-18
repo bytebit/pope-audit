@@ -1,0 +1,55 @@
+{
+ "bits": 4,
+ "images": 500,
+ "records": 2985,
+ "auroc": {
+  "0": {
+   "pas_all": 0.4116,
+   "pas_gen": 0.3944,
+   "pas_inst": 0.6745,
+   "svar": 0.5884,
+   "pas_official": 0.3466,
+   "pas_official_alltext": 0.373
+  },
+  "4": {
+   "pas_all": 0.5321,
+   "pas_gen": 0.534,
+   "pas_inst": 0.3502,
+   "svar": 0.468,
+   "pas_official": 0.4936,
+   "pas_official_alltext": 0.493
+  },
+  "8": {
+   "pas_all": 0.385,
+   "pas_gen": 0.3776,
+   "pas_inst": 0.5488,
+   "svar": 0.615,
+   "pas_official": 0.377,
+   "pas_official_alltext": 0.3938
+  },
+  "16": {
+   "pas_all": 0.3627,
+   "pas_gen": 0.3595,
+   "pas_inst": 0.461,
+   "svar": 0.6374,
+   "pas_official": 0.3312,
+   "pas_official_alltext": 0.3329
+  },
+  "24": {
+   "pas_all": 0.3989,
+   "pas_gen": 0.3995,
+   "pas_inst": 0.4582,
+   "svar": 0.6011,
+   "pas_official": 0.4296,
+   "pas_official_alltext": 0.433
+  },
+  "31": {
+   "pas_all": 0.5206,
+   "pas_gen": 0.5144,
+   "pas_inst": 0.5932,
+   "svar": 0.4794,
+   "pas_official": 0.5134,
+   "pas_official_alltext": 0.526
+  }
+ }
+}

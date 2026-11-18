@@ -1,0 +1,112 @@
+{
+  "random": {
+    "accuracy": 0.95,
+    "precision": 0.9091,
+    "recall": 1.0,
+    "f1": 0.9524,
+    "num_samples": 20,
+    "elapsed_sec": 38.0,
+    "predictions": [
+      {
+        "question": "Is there a snowboard in the image?",
+        "pred": "yes, there is a snowboard in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "no, there is no car in the",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes, there is a person in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sandwich in the image?",
+        "pred": "no, there is no sandwich in",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a skis in the image?",
+        "pred": "yes, there is a skier in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a couch in the image?",
+        "pred": "no, there is no couch in",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a truck in the image?",
+        "pred": "yes, there is a truck in",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a pizza in the image?",
+        "pred": "no, there is no pizza in",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes, there is a person in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sink in the image?",
+        "pred": "no, there is no sink in the",
+        "answer": "no"
+      },
+      {
+        "question": "Is there an umbrella in the image?",
+        "pred": "yes, there is an umbrella",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a cell phone in the image?",
+        "pred": "yes, there is a cell phone in",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes, there is a person in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a sheep in the image?",
+        "pred": "no, there is no sheep in the",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a bicycle in the image?",
+        "pred": "yes, there is a bicycle",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a broccoli in the image?",
+        "pred": "no, there is no broccoli",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a car in the image?",
+        "pred": "yes, there is a car in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a tennis racket in the image?",
+        "pred": "no, there is no tennis racket",
+        "answer": "no"
+      },
+      {
+        "question": "Is there a person in the image?",
+        "pred": "yes, there is a person in the",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a teddy bear in the image?",
+        "pred": "no, there is no teddy bear",
+        "answer": "no"
+      }
+    ]
+  }
+}
